@@ -1,3 +1,4 @@
+---
 source:https://en.wikipedia.org/wiki/Linked_list
 ---
 What are the tradeoffs of list data structures?

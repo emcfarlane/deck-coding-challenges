@@ -1,3 +1,4 @@
+---
 source:https://en.wikipedia.org/wiki/Doubly_linked_list
 ---
 What is a doubly linked list?
